@@ -50,7 +50,7 @@
 
     end
 
-    puts "Obrigado por usar o Cookbook, volte sempre"
+    puts "Obrigado por usar o Cookbook, ate logo"
 
 
 
